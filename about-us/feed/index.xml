@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: About Alfa Channel	</title>
-	<atom:link href="/about-us/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://alfachannel.com/about-us/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alfachannel.com/</link>
 	<description>Websites that work</description>
 	<lastBuildDate>Sat, 04 Aug 2018 05:38:43 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Alfa Channel</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://alfachannel.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://alfachannel.com/</link>
 	<description>Websites that work</description>
-	<lastBuildDate>Mon, 01 Jul 2019 14:10:46 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 06 Jul 2014 05:13:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,277 +20,269 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
-		<title>Test</title>
-		<link>/bodoland/</link>
-					<comments>/bodoland/#respond</comments>
+		<title>Aurigma Tours</title>
+		<link>https://alfachannel.com/aurigma-tours/</link>
+					<comments>https://alfachannel.com/aurigma-tours/#respond</comments>
 		
 		<dc:creator><![CDATA[Administrator]]></dc:creator>
-		<pubDate>Mon, 01 Jul 2019 14:03:07 +0000</pubDate>
-				<category><![CDATA[Recent Projects]]></category>
-		<guid isPermaLink="false">/?p=538</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<a href="https://bodolandambassadors.com/aob2018_posts/" target="_blank" rel="noopener noreferrer"><img src="https://bodolandambassadors.com/wp-content/uploads/2019/07/AOB2018-Badge.svg" alt="Ambassadors Of Bodoland 2018" width="100%" border="0"></a>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/bodoland/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Edakkal Hermitage</title>
-		<link>/edakkal-hermitage/</link>
-					<comments>/edakkal-hermitage/#respond</comments>
-		
-		<dc:creator><![CDATA[Administrator]]></dc:creator>
-		<pubDate>Sun, 06 Jul 2014 06:20:57 +0000</pubDate>
+		<pubDate>Sun, 06 Jul 2014 05:13:50 +0000</pubDate>
 				<category><![CDATA[Recent Projects]]></category>
 		<category><![CDATA[CMS]]></category>
 		<category><![CDATA[CSS3]]></category>
 		<category><![CDATA[HTML5]]></category>
 		<category><![CDATA[Responsive]]></category>
 		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">/?p=122</guid>
+		<guid isPermaLink="false">https://alfachannel.com/?p=48</guid>
 
-					<description><![CDATA[Content managed website for Edakkal Hermitage Client: Edakkal Hermitage, Wayanad Type: Open Source CMS Framework: WordPress]]></description>
-										<content:encoded><![CDATA[<p>Content managed website for Edakkal Hermitage</p>
-<p><strong>Client:</strong> Edakkal Hermitage, Wayanad<br />
-<strong>Type:</strong> Open Source CMS<br />
-<strong>Framework:</strong> WordPress</p>
-<p><a href='http://www.edakkal.com/' class='small-button smallsilver' target="_blank">View website »</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/edakkal-hermitage/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>IRSD 2014</title>
-		<link>/irsd-2014/</link>
-					<comments>/irsd-2014/#respond</comments>
-		
-		<dc:creator><![CDATA[Administrator]]></dc:creator>
-		<pubDate>Sun, 06 Jul 2014 06:19:20 +0000</pubDate>
-				<category><![CDATA[Recent Projects]]></category>
-		<category><![CDATA[CMS]]></category>
-		<category><![CDATA[CSS3]]></category>
-		<category><![CDATA[HTML5]]></category>
-		<category><![CDATA[Responsive]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">/?p=119</guid>
-
-					<description><![CDATA[Content managed website for India Rubber Summit &#38; Dinner 2014 Client: Rubber Asia, Dhanam Group Type: Open Source CMS Framework: WordPress]]></description>
-										<content:encoded><![CDATA[<p>Content managed website for India Rubber Summit &amp; Dinner 2014</p>
-<p><strong>Client:</strong> Rubber Asia, Dhanam Group<br />
-<strong>Type:</strong> Open Source CMS<br />
-<strong>Framework:</strong> WordPress</p>
-<p><a href='http://www.irsd.in/' class='small-button smallsilver' target="_blank">View website »</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/irsd-2014/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Gray Matter</title>
-		<link>/gray-matter/</link>
-					<comments>/gray-matter/#respond</comments>
-		
-		<dc:creator><![CDATA[Administrator]]></dc:creator>
-		<pubDate>Sun, 06 Jul 2014 06:17:08 +0000</pubDate>
-				<category><![CDATA[Recent Projects]]></category>
-		<category><![CDATA[CMS]]></category>
-		<category><![CDATA[CSS3]]></category>
-		<category><![CDATA[HTML5]]></category>
-		<category><![CDATA[Responsive]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">/?p=116</guid>
-
-					<description><![CDATA[Content managed website for Gray Matter, 360 degree media and event company based in Dubai. Client: Gray Matter, Dubai Type: Open Source CMS Framework: WordPress]]></description>
-										<content:encoded><![CDATA[<p>Content managed website for Gray Matter, 360 degree media and event company based in Dubai.</p>
-<p><strong>Client:</strong> Gray Matter, Dubai<br />
-<strong>Type:</strong> Open Source CMS<br />
-<strong>Framework:</strong> WordPress</p>
-<p><a href='http://www.graymatterdubai.com/' class='small-button smallsilver' target="_blank">View website »</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/gray-matter/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>KMEA Engineering College</title>
-		<link>/kmea-engineering-college/</link>
-					<comments>/kmea-engineering-college/#respond</comments>
-		
-		<dc:creator><![CDATA[Administrator]]></dc:creator>
-		<pubDate>Sun, 06 Jul 2014 06:15:06 +0000</pubDate>
-				<category><![CDATA[Recent Projects]]></category>
-		<category><![CDATA[CMS]]></category>
-		<category><![CDATA[CSS3]]></category>
-		<category><![CDATA[HTML5]]></category>
-		<category><![CDATA[Responsive]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">/?p=113</guid>
-
-					<description><![CDATA[Content managed website for KMEA Engineering College Client: KMEA Engineering College Type: Open Source CMS Framework: WordPress]]></description>
-										<content:encoded><![CDATA[<p>Content managed website for KMEA Engineering College</p>
-<p><strong>Client:</strong> KMEA Engineering College<br />
-<strong>Type:</strong> Open Source CMS<br />
-<strong>Framework:</strong> WordPress</p>
-<p><a href='http://kmeacollege.ac.in/' class='small-button smallsilver' target="_blank">View website »</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/kmea-engineering-college/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Sathyamangalam Tiger Reserve</title>
-		<link>/sathyamangalam-tiger-reserve/</link>
-					<comments>/sathyamangalam-tiger-reserve/#respond</comments>
-		
-		<dc:creator><![CDATA[Administrator]]></dc:creator>
-		<pubDate>Sun, 06 Jul 2014 06:13:31 +0000</pubDate>
-				<category><![CDATA[Recent Projects]]></category>
-		<category><![CDATA[CMS]]></category>
-		<category><![CDATA[CSS3]]></category>
-		<category><![CDATA[HTML5]]></category>
-		<category><![CDATA[Responsive]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">/?p=110</guid>
-
-					<description><![CDATA[Content managed website for Sathyamangalam Tiger Reserve Client: Sathyamangalam Tiger Reserve Type: Open Source CMS Framework: WordPress]]></description>
-										<content:encoded><![CDATA[<p>Content managed website for Sathyamangalam Tiger Reserve</p>
-<p><strong>Client:</strong> Sathyamangalam Tiger Reserve<br />
-<strong>Type:</strong> Open Source CMS<br />
-<strong>Framework:</strong> WordPress</p>
-<p><a href='http://www.str-tn.org/' class='small-button smallsilver' target="_blank">View website »</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/sathyamangalam-tiger-reserve/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Polymers &#038; Tyre Asia</title>
-		<link>/polymers-tyre-asia/</link>
-					<comments>/polymers-tyre-asia/#respond</comments>
-		
-		<dc:creator><![CDATA[Administrator]]></dc:creator>
-		<pubDate>Sun, 06 Jul 2014 06:11:04 +0000</pubDate>
-				<category><![CDATA[Recent Projects]]></category>
-		<category><![CDATA[CMS]]></category>
-		<category><![CDATA[CSS3]]></category>
-		<category><![CDATA[HTML5]]></category>
-		<category><![CDATA[Responsive]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">/?p=107</guid>
-
-					<description><![CDATA[Content managed website for Polymers &#38; Tyre Asia, Asia’s largest selling bi-monthly magazine on tyre. Client: Dhanam Group Type: Open Source CMS Framework: WordPress]]></description>
-										<content:encoded><![CDATA[<p>Content managed website for Polymers &amp; Tyre Asia, Asia’s largest selling bi-monthly magazine on tyre.</p>
-<p>Client: Dhanam Group<br />
-Type: Open Source CMS<br />
-Framework: WordPress</p>
-<p><a href='http://www.tyre-asia.com/' class='small-button smallsilver' target="_blank">View website »</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/polymers-tyre-asia/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Kerala Press Academy</title>
-		<link>/kerala-press-academy/</link>
-					<comments>/kerala-press-academy/#respond</comments>
-		
-		<dc:creator><![CDATA[Administrator]]></dc:creator>
-		<pubDate>Sun, 06 Jul 2014 05:46:39 +0000</pubDate>
-				<category><![CDATA[Recent Projects]]></category>
-		<category><![CDATA[CMS]]></category>
-		<category><![CDATA[CSS3]]></category>
-		<category><![CDATA[Drupal]]></category>
-		<category><![CDATA[HTML5]]></category>
-		<category><![CDATA[Responsive]]></category>
-		<guid isPermaLink="false">/?p=81</guid>
-
-					<description><![CDATA[Content managed website for Kerala Press Academy Client: Kerala Press Academy Type: Open Source CMS Framework: Drupal]]></description>
-										<content:encoded><![CDATA[<p>Content managed website for Kerala Press Academy</p>
-<p><strong>Client:</strong> Kerala Press Academy<br />
-<strong>Type:</strong> Open Source CMS<br />
-<strong>Framework:</strong> Drupal</p>
-<p><a href='http://www.pressacademy.org/' class='small-button smallsilver' target="_blank">View website »</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/kerala-press-academy/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Kochi Metro Rail Ltd.</title>
-		<link>/kochi-metro-rail-ltd/</link>
-					<comments>/kochi-metro-rail-ltd/#respond</comments>
-		
-		<dc:creator><![CDATA[Administrator]]></dc:creator>
-		<pubDate>Sun, 06 Jul 2014 05:45:41 +0000</pubDate>
-				<category><![CDATA[Recent Projects]]></category>
-		<category><![CDATA[CMS]]></category>
-		<category><![CDATA[CSS3]]></category>
-		<category><![CDATA[HTML5]]></category>
-		<category><![CDATA[Responsive]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">/?p=69</guid>
-
-					<description><![CDATA[kochimetro.org – Website for Kochi Metro Rail Ltd. Client: Kochi Metro Rail Ltd. Type: Open Source CMS Framework: WordPress]]></description>
-										<content:encoded><![CDATA[<p><strong>kochimetro.org</strong> – Website for Kochi Metro Rail Ltd.</p>
-<p><strong>Client:</strong> Kochi Metro Rail Ltd.</p>
-<p><strong>Type:</strong> Open Source CMS</p>
-<p><strong>Framework</strong>: WordPress</p>
-<p><a href='http://kochimetro.org/' class='small-button smallsilver' target="_blank">View website »</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/kochi-metro-rail-ltd/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>All Kerala Photographers Association</title>
-		<link>/all-kerala-photographers-association/</link>
-					<comments>/all-kerala-photographers-association/#respond</comments>
-		
-		<dc:creator><![CDATA[Administrator]]></dc:creator>
-		<pubDate>Sun, 06 Jul 2014 05:44:30 +0000</pubDate>
-				<category><![CDATA[Recent Projects]]></category>
-		<category><![CDATA[CMS]]></category>
-		<category><![CDATA[CSS3]]></category>
-		<category><![CDATA[Drupal]]></category>
-		<category><![CDATA[HTML5]]></category>
-		<category><![CDATA[Responsive]]></category>
-		<guid isPermaLink="false">/?p=78</guid>
-
-					<description><![CDATA[Content manged website for (AKPA) All Kerala Photographers Association Client: All Kerala Photographers Association, Kerala. Type: Open source CMS Framework: Drupal]]></description>
-										<content:encoded><![CDATA[<p>Content manged website for (AKPA) All Kerala Photographers Association</p>
-<p>Client: All Kerala Photographers Association, Kerala.<br />
+					<description><![CDATA[Content managed website for a tour company. Client: Aurigma Tours Type: Open source CMS Framework: WordPress]]></description>
+										<content:encoded><![CDATA[<p>Content managed website for a tour company.</p>
+<p>Client: Aurigma Tours<br />
 Type: Open source CMS<br />
-Framework: Drupal</p>
-<p><a href='http://akpa.in/' class='small-button smallsilver' target="_blank">View website »</a></p>
+Framework: WordPress</p>
+<a href='http://www.aurigmatours.com/' class='small-button smallsilver' target="_blank">View website »</a>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/all-kerala-photographers-association/feed/</wfw:commentRss>
+					<wfw:commentRss>https://alfachannel.com/aurigma-tours/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lalithakala Akademi</title>
+		<link>https://alfachannel.com/lalithakala-akademi/</link>
+					<comments>https://alfachannel.com/lalithakala-akademi/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 05:09:22 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[Adaptive]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[Drupal]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<guid isPermaLink="false">https://alfachannel.com/?p=45</guid>
+
+					<description><![CDATA[Portal for Kerala Lalithakala Akademi. Facilities for online sale of art works and Artist&#8217;s directory. Client: Kerala Lalithakala Akademi. Type: Open source CMS Framework: Drupal]]></description>
+										<content:encoded><![CDATA[<p>Portal for Kerala Lalithakala Akademi. Facilities for online sale of art works and Artist&#8217;s directory.</p>
+<p><strong>Client:</strong> Kerala Lalithakala Akademi.<br />
+<strong>Type:</strong> Open source CMS<br />
+<strong>Framework:</strong> Drupal</p>
+<a href='http://www.lalithkala.org/' class='small-button smallsilver' target="_blank">View website »</a>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://alfachannel.com/lalithakala-akademi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Grass Routes Journeys</title>
+		<link>https://alfachannel.com/grass-routes-journeys/</link>
+					<comments>https://alfachannel.com/grass-routes-journeys/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 05:07:49 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Static]]></category>
+		<guid isPermaLink="false">https://alfachannel.com/?p=42</guid>
+
+					<description><![CDATA[Website for Grass Routes Journeys: Cultural Tours, Overland Adventures, Camping, and Village Visits Client: Grass Routes Journeys Type: Static HTML site]]></description>
+										<content:encoded><![CDATA[<p>Website for Grass Routes Journeys: Cultural Tours, Overland Adventures, Camping, and Village Visits</p>
+<p><strong>Client:</strong> Grass Routes Journeys<br />
+<strong>Type:</strong> Static HTML site</p>
+<a href='http://grassroutesjourneys.com/' class='small-button smallsilver' target="_blank">View website »</a>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://alfachannel.com/grass-routes-journeys/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Rajagiri Hospital</title>
+		<link>https://alfachannel.com/rajagiri-hospital/</link>
+					<comments>https://alfachannel.com/rajagiri-hospital/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 05:06:41 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[Adaptive]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[Drupal]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<guid isPermaLink="false">https://alfachannel.com/?p=39</guid>
+
+					<description><![CDATA[Content managed website for Rajagiri Hospital Client: Rajagiri Healthcare and Education Project Type: Open source CMS Framework: Drupal]]></description>
+										<content:encoded><![CDATA[<p>Content managed website for Rajagiri Hospital</p>
+<p><strong>Client:</strong> Rajagiri Healthcare and Education Project<br />
+<strong>Type:</strong> Open source CMS<br />
+<strong>Framework:</strong> Drupal</p>
+<a href='http://www.rajagirihospital.com/' class='small-button smallsilver' target="_blank">View website »</a>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://alfachannel.com/rajagiri-hospital/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Falcon Infrastructure</title>
+		<link>https://alfachannel.com/falcon-infrastructure/</link>
+					<comments>https://alfachannel.com/falcon-infrastructure/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 05:05:31 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Responsive]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://alfachannel.com/?p=36</guid>
+
+					<description><![CDATA[Corporate website for Falcon group companies. Client: Falcon Infrastructures Limited, Cochin Type: Open source CMS Framework: WordPress]]></description>
+										<content:encoded><![CDATA[<p>Corporate website for Falcon group companies.</p>
+<p><strong>Client:</strong> Falcon Infrastructures Limited, Cochin<br />
+<strong>Type:</strong> Open source CMS<br />
+<strong>Framework:</strong> WordPress</p>
+<a href='http://www.falconindia.co.in/' class='small-button smallsilver' target="_blank">View website »</a>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://alfachannel.com/falcon-infrastructure/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Advanced Health n&#8217; Fitness</title>
+		<link>https://alfachannel.com/advanced-health-n-fitness/</link>
+					<comments>https://alfachannel.com/advanced-health-n-fitness/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 05:03:54 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Responsive]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://alfachannel.com/?p=33</guid>
+
+					<description><![CDATA[Content managed website for a fitness trainer Client: Advanced Health n’ Fitness, NSW 2049, Australia. Type: Open source CMS Framework: WordPress]]></description>
+										<content:encoded><![CDATA[<p>Content managed website for a fitness trainer</p>
+<p><strong>Client:</strong> Advanced Health n’ Fitness, NSW 2049, Australia.<br />
+<strong>Type:</strong> Open source CMS<br />
+<strong>Framework:</strong> WordPress</p>
+<a href='http://www.advancedhealthnfitness.com.au/' class='small-button smallsilver' target="_blank">View website »</a>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://alfachannel.com/advanced-health-n-fitness/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ettumanoor Temple</title>
+		<link>https://alfachannel.com/ettumanoor-temple/</link>
+					<comments>https://alfachannel.com/ettumanoor-temple/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 05:00:44 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[Adaptive]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[Drupal]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<guid isPermaLink="false">https://alfachannel.com/?p=30</guid>
+
+					<description><![CDATA[CMS website for Ettumanoor Mahadevar Temple Client: Ettumanoor Mahadevar Temple, Kottayam Type: Open source CMS Framework: Drupal]]></description>
+										<content:encoded><![CDATA[<p>CMS website for Ettumanoor Mahadevar Temple</p>
+<p><strong><strong>Client:</strong> Ettumanoor Mahadevar Temple, Kottayam<br />
+Type:</strong> Open source CMS<br />
+Framework: Drupal</p>
+<a href='http://ettumanoortemple.in/' class='small-button smallsilver' target="_blank">View website »</a>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://alfachannel.com/ettumanoor-temple/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vidyabharathi</title>
+		<link>https://alfachannel.com/vidyabharathi/</link>
+					<comments>https://alfachannel.com/vidyabharathi/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 04:59:25 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[Adapt]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[Drupal]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<guid isPermaLink="false">https://alfachannel.com/?p=27</guid>
+
+					<description><![CDATA[Content manged portal for Vidyabharathi Group of Institutions Type: Open source CMS Framework: Drupal]]></description>
+										<content:encoded><![CDATA[<p>Content manged portal for Vidyabharathi Group of Institutions</p>
+<p><strong>Type:</strong> Open source CMS<br />
+<strong>Framework:</strong> Drupal</p>
+<a href='http://vidya.ac.in/' class='small-button smallsilver' target="_blank">View website »</a>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://alfachannel.com/vidyabharathi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Toxic Valley</title>
+		<link>https://alfachannel.com/toxic-valley/</link>
+					<comments>https://alfachannel.com/toxic-valley/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 04:52:26 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Static]]></category>
+		<guid isPermaLink="false">https://alfachannel.com/?p=24</guid>
+
+					<description><![CDATA[Simple HTML website for the movie &#8220;Toxic Valley&#8221; Client: Kurien Productions, Australia. Type: Static HTML5/CSS3 website]]></description>
+										<content:encoded><![CDATA[<p>Simple HTML website for the movie &#8220;<strong>Toxic Valley</strong>&#8221;</p>
+<p><strong>Client:</strong> Kurien Productions, Australia.<br />
+<strong>Type:</strong> Static HTML5/CSS3 website</p>
+<a href='http://toxicvalleythemovie.com/' class='small-button smallsilver' target="_blank">View website »</a>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://alfachannel.com/toxic-valley/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hill District Club</title>
+		<link>https://alfachannel.com/hill-district-club/</link>
+					<comments>https://alfachannel.com/hill-district-club/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 04:50:04 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Static]]></category>
+		<guid isPermaLink="false">https://alfachannel.com/?p=21</guid>
+
+					<description><![CDATA[Static HTML5/CSS3 website for The Hill District Club. Client: The Hill District Club, Wayanad.]]></description>
+										<content:encoded><![CDATA[<p>Static HTML5/CSS3 website for The Hill District Club.</p>
+<p>Client: The Hill District Club, Wayanad.</p>
+<a href='http://hilldistrictclub.com/' class='small-button smallsilver' target="_blank">View website »</a>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://alfachannel.com/hill-district-club/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
