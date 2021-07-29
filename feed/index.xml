@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alfa Channel</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Websites that work</description>
+	<lastBuildDate>Mon, 01 Jul 2019 14:10:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Test</title>
+		<link>/bodoland/</link>
+					<comments>/bodoland/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Mon, 01 Jul 2019 14:03:07 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<guid isPermaLink="false">/?p=538</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<a href="https://bodolandambassadors.com/aob2018_posts/" target="_blank" rel="noopener noreferrer"><img src="https://bodolandambassadors.com/wp-content/uploads/2019/07/AOB2018-Badge.svg" alt="Ambassadors Of Bodoland 2018" width="100%" border="0"></a>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bodoland/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Edakkal Hermitage</title>
+		<link>/edakkal-hermitage/</link>
+					<comments>/edakkal-hermitage/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 06:20:57 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Responsive]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=122</guid>
+
+					<description><![CDATA[Content managed website for Edakkal Hermitage Client: Edakkal Hermitage, Wayanad Type: Open Source CMS Framework: WordPress]]></description>
+										<content:encoded><![CDATA[<p>Content managed website for Edakkal Hermitage</p>
+<p><strong>Client:</strong> Edakkal Hermitage, Wayanad<br />
+<strong>Type:</strong> Open Source CMS<br />
+<strong>Framework:</strong> WordPress</p>
+<p><a href='http://www.edakkal.com/' class='small-button smallsilver' target="_blank">View website »</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/edakkal-hermitage/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>IRSD 2014</title>
+		<link>/irsd-2014/</link>
+					<comments>/irsd-2014/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 06:19:20 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Responsive]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=119</guid>
+
+					<description><![CDATA[Content managed website for India Rubber Summit &#38; Dinner 2014 Client: Rubber Asia, Dhanam Group Type: Open Source CMS Framework: WordPress]]></description>
+										<content:encoded><![CDATA[<p>Content managed website for India Rubber Summit &amp; Dinner 2014</p>
+<p><strong>Client:</strong> Rubber Asia, Dhanam Group<br />
+<strong>Type:</strong> Open Source CMS<br />
+<strong>Framework:</strong> WordPress</p>
+<p><a href='http://www.irsd.in/' class='small-button smallsilver' target="_blank">View website »</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/irsd-2014/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gray Matter</title>
+		<link>/gray-matter/</link>
+					<comments>/gray-matter/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 06:17:08 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Responsive]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=116</guid>
+
+					<description><![CDATA[Content managed website for Gray Matter, 360 degree media and event company based in Dubai. Client: Gray Matter, Dubai Type: Open Source CMS Framework: WordPress]]></description>
+										<content:encoded><![CDATA[<p>Content managed website for Gray Matter, 360 degree media and event company based in Dubai.</p>
+<p><strong>Client:</strong> Gray Matter, Dubai<br />
+<strong>Type:</strong> Open Source CMS<br />
+<strong>Framework:</strong> WordPress</p>
+<p><a href='http://www.graymatterdubai.com/' class='small-button smallsilver' target="_blank">View website »</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gray-matter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>KMEA Engineering College</title>
+		<link>/kmea-engineering-college/</link>
+					<comments>/kmea-engineering-college/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 06:15:06 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Responsive]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=113</guid>
+
+					<description><![CDATA[Content managed website for KMEA Engineering College Client: KMEA Engineering College Type: Open Source CMS Framework: WordPress]]></description>
+										<content:encoded><![CDATA[<p>Content managed website for KMEA Engineering College</p>
+<p><strong>Client:</strong> KMEA Engineering College<br />
+<strong>Type:</strong> Open Source CMS<br />
+<strong>Framework:</strong> WordPress</p>
+<p><a href='http://kmeacollege.ac.in/' class='small-button smallsilver' target="_blank">View website »</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/kmea-engineering-college/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sathyamangalam Tiger Reserve</title>
+		<link>/sathyamangalam-tiger-reserve/</link>
+					<comments>/sathyamangalam-tiger-reserve/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 06:13:31 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Responsive]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=110</guid>
+
+					<description><![CDATA[Content managed website for Sathyamangalam Tiger Reserve Client: Sathyamangalam Tiger Reserve Type: Open Source CMS Framework: WordPress]]></description>
+										<content:encoded><![CDATA[<p>Content managed website for Sathyamangalam Tiger Reserve</p>
+<p><strong>Client:</strong> Sathyamangalam Tiger Reserve<br />
+<strong>Type:</strong> Open Source CMS<br />
+<strong>Framework:</strong> WordPress</p>
+<p><a href='http://www.str-tn.org/' class='small-button smallsilver' target="_blank">View website »</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sathyamangalam-tiger-reserve/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Polymers &#038; Tyre Asia</title>
+		<link>/polymers-tyre-asia/</link>
+					<comments>/polymers-tyre-asia/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 06:11:04 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Responsive]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=107</guid>
+
+					<description><![CDATA[Content managed website for Polymers &#38; Tyre Asia, Asia’s largest selling bi-monthly magazine on tyre. Client: Dhanam Group Type: Open Source CMS Framework: WordPress]]></description>
+										<content:encoded><![CDATA[<p>Content managed website for Polymers &amp; Tyre Asia, Asia’s largest selling bi-monthly magazine on tyre.</p>
+<p>Client: Dhanam Group<br />
+Type: Open Source CMS<br />
+Framework: WordPress</p>
+<p><a href='http://www.tyre-asia.com/' class='small-button smallsilver' target="_blank">View website »</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/polymers-tyre-asia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Kerala Press Academy</title>
+		<link>/kerala-press-academy/</link>
+					<comments>/kerala-press-academy/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 05:46:39 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[Drupal]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Responsive]]></category>
+		<guid isPermaLink="false">/?p=81</guid>
+
+					<description><![CDATA[Content managed website for Kerala Press Academy Client: Kerala Press Academy Type: Open Source CMS Framework: Drupal]]></description>
+										<content:encoded><![CDATA[<p>Content managed website for Kerala Press Academy</p>
+<p><strong>Client:</strong> Kerala Press Academy<br />
+<strong>Type:</strong> Open Source CMS<br />
+<strong>Framework:</strong> Drupal</p>
+<p><a href='http://www.pressacademy.org/' class='small-button smallsilver' target="_blank">View website »</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/kerala-press-academy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Kochi Metro Rail Ltd.</title>
+		<link>/kochi-metro-rail-ltd/</link>
+					<comments>/kochi-metro-rail-ltd/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 05:45:41 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Responsive]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">/?p=69</guid>
+
+					<description><![CDATA[kochimetro.org – Website for Kochi Metro Rail Ltd. Client: Kochi Metro Rail Ltd. Type: Open Source CMS Framework: WordPress]]></description>
+										<content:encoded><![CDATA[<p><strong>kochimetro.org</strong> – Website for Kochi Metro Rail Ltd.</p>
+<p><strong>Client:</strong> Kochi Metro Rail Ltd.</p>
+<p><strong>Type:</strong> Open Source CMS</p>
+<p><strong>Framework</strong>: WordPress</p>
+<p><a href='http://kochimetro.org/' class='small-button smallsilver' target="_blank">View website »</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/kochi-metro-rail-ltd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>All Kerala Photographers Association</title>
+		<link>/all-kerala-photographers-association/</link>
+					<comments>/all-kerala-photographers-association/#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2014 05:44:30 +0000</pubDate>
+				<category><![CDATA[Recent Projects]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[Drupal]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Responsive]]></category>
+		<guid isPermaLink="false">/?p=78</guid>
+
+					<description><![CDATA[Content manged website for (AKPA) All Kerala Photographers Association Client: All Kerala Photographers Association, Kerala. Type: Open source CMS Framework: Drupal]]></description>
+										<content:encoded><![CDATA[<p>Content manged website for (AKPA) All Kerala Photographers Association</p>
+<p>Client: All Kerala Photographers Association, Kerala.<br />
+Type: Open source CMS<br />
+Framework: Drupal</p>
+<p><a href='http://akpa.in/' class='small-button smallsilver' target="_blank">View website »</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/all-kerala-photographers-association/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
